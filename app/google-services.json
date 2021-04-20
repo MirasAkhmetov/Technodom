@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750887798496",
+    "project_id": "fastpost-394e8",
+    "storage_bucket": "fastpost-394e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750887798496:android:9d38b1d441311552efb285",
+        "android_client_info": {
+          "package_name": "com.project.fastpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750887798496-nrf3afo0ft9qrdn56bjh97fotv9s326u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.fastpost",
+            "certificate_hash": "947a5728d04ab69f15c323f246460f56ca50a3eb"
+          }
+        },
+        {
+          "client_id": "750887798496-c6b0t4soj58pj1lqqd56r96p7b278iqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQJB6KjtdGkYi0lZ4cCWXVDonm4__ubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750887798496-c6b0t4soj58pj1lqqd56r96p7b278iqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

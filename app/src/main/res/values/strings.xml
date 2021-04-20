@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Technodom</string>
+
+    <string name="default_notification_channel_id" translatable="false">FastPost Notification</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="notification_chanel">Notification</string>
+    <string name="notification_desc">All notifications</string>
+    <string name="empty_data">Empty data</string>
+    <string name="empty_data_description">You have not data yet.\nPlease try again later.</string>
+    <string name="empty_error">Oops!</string>
+    <string name="empty_error_description">Something went wrong.\nPlease try again later.</string>
+    <string name="refresh">Refresh</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="network_error">Network error</string>
+    <string name="not_modified_error">304 Not Modified</string>
+    <string name="bad_request_error">400 Bad Request</string>
+    <string name="unauthorized_error">401 Unauthorized</string>
+    <string name="forbidden_error">403 Forbidden</string>
+    <string name="not_found_error">404 Not Found</string>
+    <string name="method_not_allowed_error">405 Method Not Allowed</string>
+    <string name="conflict_error">409 Conflict</string>
+    <string name="unprocessable_error">422 Unprocessable</string>
+    <string name="server_error_error">500 Server Error</string>
+    <string name="timeout_error">TimeOut Exception</string>
+    <string name="rationale_external_storage_permission">Need permission</string>
+
+
+    <string name="out">Вы действительно хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="send_post">Я хочу отправить посылку</string>
+    <string name="earn_money">Я хочу подзаработать</string>
+</resources>

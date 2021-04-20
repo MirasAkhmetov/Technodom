@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="edt_height">50dp</dimen>
+    <dimen name="btn_height">50dp</dimen>
+    <dimen name="txt_place">4.5sp</dimen>
+    <dimen name="img_place">200dp</dimen>
+
+</resources>
